@@ -1,0 +1,6 @@
+C:\Users\Marat\source\repos\Week1\Example3\bin\Debug\Example3.exe.config
+C:\Users\Marat\source\repos\Week1\Example3\bin\Debug\Example3.exe
+C:\Users\Marat\source\repos\Week1\Example3\bin\Debug\Example3.pdb
+C:\Users\Marat\source\repos\Week1\Example3\obj\Debug\Example3.csproj.CoreCompileInputs.cache
+C:\Users\Marat\source\repos\Week1\Example3\obj\Debug\Example3.exe
+C:\Users\Marat\source\repos\Week1\Example3\obj\Debug\Example3.pdb
